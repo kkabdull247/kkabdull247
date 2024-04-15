@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdullah Khan</h1>
 <h3 align="center">Frontend Developer | Web Designer | Learner</h3>
 
-- 🔭 I’m currently Learning at [Aptech](aptech.com)
-
 - 🌱 I’m currently learning **JS,PHP,SQL**
 
 - 💬 Ask me about **CSS**
