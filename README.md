@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Abdullah Khan</h1>
-<h3 align="center">Frontend Developer | Web Designer | Learner</h3>
+<h1 align="left">Hi 👋, I'm Abdullah Khan</h1>
+<h3 align="left">Frontend Developer | Web Designer | Learner</h3>
+<p align="left">
+  <img src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif?cid=790b7611uup86qsicpft4fseiqy9ez9jrhftbrvs4bsdhtzl&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt= "animated" />
+</p>
 
 - 🌱 I’m currently learning **JS,PHP,SQL**
 
